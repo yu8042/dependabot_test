@@ -7,10 +7,10 @@ version: 2
 updates:
   - package-ecosystem: "bundler" # See documentation for possible values
     directory: "/" # Location of package manifests
-    open-pull-requests-limit: 0
+    open-pull-requests-limit: 10
     schedule:
       interval: "daily"
       day: "saturday"
-      time: "19:31"
+      time: "19:35"
       timezone: "Asia/Tokyo"
       versioning-strategy: increase-if-necessary
