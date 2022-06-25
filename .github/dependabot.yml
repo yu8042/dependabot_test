@@ -11,5 +11,5 @@ updates:
     schedule:
       interval: "daily"
       day: "saturday"
-      time: "16:42"
+      time: "19:31"
       timezone: "Asia/Tokyo"
