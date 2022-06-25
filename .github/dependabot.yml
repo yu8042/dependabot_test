@@ -7,8 +7,9 @@ version: 2
 updates:
   - package-ecosystem: "bundler" # See documentation for possible values
     directory: "/" # Location of package manifests
+    open-pull-requests-limit: 0
     schedule:
       interval: "daily"
       day: "saturday"
-      time: "15:58"
+      time: "16:03"
       timezone: "Asia/Tokyo"
