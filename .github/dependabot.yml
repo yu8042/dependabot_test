@@ -13,4 +13,4 @@ updates:
       day: "saturday"
       time: "19:35"
       timezone: "Asia/Tokyo"
-      versioning-strategy: increase-if-necessary
+    versioning-strategy: increase-if-necessary
