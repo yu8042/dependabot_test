@@ -11,6 +11,6 @@ updates:
     schedule:
       interval: "daily"
       day: "saturday"
-      time: "19:39"
+      time: "19:43"
       timezone: "Asia/Tokyo"
     versioning-strategy: increase-if-necessary
