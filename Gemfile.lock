@@ -1,15 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activejob (6.0.3.1)
-      activesupport (= 6.0.3.1)
+    activejob (6.0.2.1)
+      activesupport (= 6.0.2.1)
       globalid (>= 0.3.6)
-    activesupport (6.0.3.1)
+    activesupport (6.0.2.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-      zeitwerk (~> 2.2, >= 2.2.2)
+      zeitwerk (~> 2.2)
     concurrent-ruby (1.1.10)
     globalid (1.0.0)
       activesupport (>= 5.0)
@@ -26,7 +26,7 @@ PLATFORMS
 
 DEPENDENCIES
   activejob
-  activesupport (= 6.0.3.1)
+  activesupport (= 6.0.2.1)
 
 BUNDLED WITH
    2.1.4
